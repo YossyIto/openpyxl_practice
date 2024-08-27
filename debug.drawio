@@ -1,9 +1,87 @@
 <mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/127.0.0.0 Safari/537.36" version="24.7.6">
   <diagram name="ページ1" id="LyOivGkLQiWNl0KN4rSi">
-    <mxGraphModel>
+    <mxGraphModel dx="988" dy="855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="_WSjz8RAGBKbNJCYmovr-1" value="困ったことがある" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="200" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_WSjz8RAGBKbNJCYmovr-2" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="80" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_WSjz8RAGBKbNJCYmovr-3" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_WSjz8RAGBKbNJCYmovr-2" target="_WSjz8RAGBKbNJCYmovr-1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="330" y="130" as="sourcePoint" />
+            <mxPoint x="380" y="80" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WSjz8RAGBKbNJCYmovr-5" value="困った&lt;div&gt;めんどくさい&lt;/div&gt;&lt;div&gt;時間がかかる&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="200" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_WSjz8RAGBKbNJCYmovr-6" value="やりたいことを決める" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="290" width="160" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="_WSjz8RAGBKbNJCYmovr-7" value="繰り返しすることを切り出せないか？&lt;div&gt;自動でしたいことは何か？&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="290" width="240" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_WSjz8RAGBKbNJCYmovr-8" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="_WSjz8RAGBKbNJCYmovr-1" target="_WSjz8RAGBKbNJCYmovr-6">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="270" as="sourcePoint" />
+            <mxPoint x="240" y="280" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WSjz8RAGBKbNJCYmovr-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="_WSjz8RAGBKbNJCYmovr-9" target="_WSjz8RAGBKbNJCYmovr-12">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="_WSjz8RAGBKbNJCYmovr-9" value="できる道具を選ぶ" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="380" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_WSjz8RAGBKbNJCYmovr-11" value="プログラム言語を選ぶ&lt;div&gt;ツールを選ぶ&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="380" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_WSjz8RAGBKbNJCYmovr-12" value="道具を使ってやってみる" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="480" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_WSjz8RAGBKbNJCYmovr-14" value="" style="endArrow=classic;html=1;rounded=0;entryX=0.497;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="_WSjz8RAGBKbNJCYmovr-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="240" y="340" as="sourcePoint" />
+            <mxPoint x="239.5" y="370" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WSjz8RAGBKbNJCYmovr-18" value="やりたいことができた" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="680" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_WSjz8RAGBKbNJCYmovr-19" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="200" y="780" width="80" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="_WSjz8RAGBKbNJCYmovr-21" value="やってみて修正する" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="580" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="_WSjz8RAGBKbNJCYmovr-23" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_WSjz8RAGBKbNJCYmovr-12" target="_WSjz8RAGBKbNJCYmovr-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="239.5" y="640" as="sourcePoint" />
+            <mxPoint x="240" y="580" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WSjz8RAGBKbNJCYmovr-24" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_WSjz8RAGBKbNJCYmovr-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="239.5" y="760" as="sourcePoint" />
+            <mxPoint x="240" y="680" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WSjz8RAGBKbNJCYmovr-25" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="_WSjz8RAGBKbNJCYmovr-18" target="_WSjz8RAGBKbNJCYmovr-19">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="239.5" y="880" as="sourcePoint" />
+            <mxPoint x="239.5" y="920" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="_WSjz8RAGBKbNJCYmovr-26" value="道具を使う&lt;div&gt;小さな実験してみる&lt;br&gt;&lt;div&gt;結果を確認する&lt;br&gt;&lt;div&gt;&lt;br&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="480" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="_WSjz8RAGBKbNJCYmovr-27" value="&lt;div&gt;&lt;div&gt;結果を見て、修正する&lt;/div&gt;&lt;/div&gt;&lt;div&gt;デバッグをして、修正する&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="360" y="580" width="240" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
